@@ -30,6 +30,7 @@ The lessons cover:
 #### Running JavaScript Files
 - To run a file, open the terminal and use `node path/to/file.js`  
 - Example: `node lesson2/classwork/string_indexing.js`  
+- You can also use the **Run Code** button from the Code Runner extension.  
 
 #### Saving Your Work in Codespaces
 1. When you make changes, they are saved automatically in the Codespaces environment, but **not yet in GitHub**.  
